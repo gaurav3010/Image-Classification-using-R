@@ -1,0 +1,3 @@
+Label,  Latin Name           , Common Name                   , Train Images , Validation Images
+n0   , alouatta_palliata	 , mantled_howler                , 96          , 9
+n1   , erythrocebus_patas	 , patas_monkey                  , 104          , 7
